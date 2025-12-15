@@ -5,6 +5,24 @@ The dashboard is designed to support **data-driven decision making** for product
 
 ---
 
+## 🖼️ Dashboard Preview
+
+Screenshots of key dashboard pages are available in the `Screenshots/` folder.
+
+> Note: Interactive features are best experienced directly in Power BI Desktop.
+
+There are 3 dashboards in this file, they are as follows:
+1. Financial Dashboard
+![Financial Dashboard](Screenshots/financial_dashboard.png)
+
+2. Audience Ratings Dashboard
+![Audience Ratings Dashboard](Screenshots/audience_ratings_dashboard.png)
+
+3. Genre Analysis Dashboard
+![Genre Analysis Gashboard](Screenshots/genre_analysis_dashboard.png)
+
+---
+
 ## 📌 Project Objective
 
 To analyze historical movie data and identify:
@@ -116,24 +134,6 @@ This Power BI report contains **three main dashboards**:
    - Language
    - Filming location
    - Runtime and rating
-
----
-
-## 🖼️ Dashboard Preview
-
-Screenshots of key dashboard pages are available in the `Screenshots/` folder.
-
-> Note: Interactive features are best experienced directly in Power BI Desktop.
-
-There are 3 dashboards in this file, they are as follows:
-1. Financial Dashboard
-![Financial Dashboard](Screenshots/financial_dashboard.png)
-
-2. Audience Ratings Dashboard
-![Audience Ratings Dashboard](Screenshots/audience_ratings_dashboard.png)
-
-3. Genre Analysis Dashboard
-![Genre Analysis Gashboard](Screenshots/genre_analysis_dashboard.png)
 
 ---
 
